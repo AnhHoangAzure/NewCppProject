@@ -37,7 +37,7 @@ int solution(vector<int> a) {
 	}
 	return a[b[0]];
 }
-
+/*
 int main() {
 	int number = -10;
 	int input;
@@ -59,3 +59,4 @@ int main() {
 	a.push_back(input);
 	cout << "Greatest number: " << findGreatedNumber(a) << endl;
 }
+*/
